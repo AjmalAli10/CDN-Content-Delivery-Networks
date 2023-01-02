@@ -26,6 +26,7 @@
 #### website is hosted on main server and user leaving in India want to surf the website. 
 #### You knew, it might take a longer time to load on the user screen (leaving in India) and a lesser time Leaving in Canada.
 #### CDN helps in to improve Performance of the content delivery.
+#### That's why CDN is required to improve the delivery of content to the user and also it will reduce the cost of the bandwidth.
 ---
 ### That's Why Cache Server comes into the picture-
 #### These cache servers are interconnected with the main server near your Geographical location (a.k.a point of presence). 
