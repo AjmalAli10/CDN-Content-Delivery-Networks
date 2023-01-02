@@ -25,6 +25,7 @@
 #### As you can see that the main server is in North America and the user are in India.
 #### website is hosted on main server and user leaving in India want to surf the website. 
 #### You knew, it might take a longer time to load on the user screen (leaving in India) and a lesser time Leaving in Canada.
+#### CDN helps in to improve Performance of the content delivery.
 ---
 ### That's Why Cache Server comes into the picture-
 #### These cache servers are interconnected with the main server near your Geographical location (a.k.a point of presence). 
